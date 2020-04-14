@@ -780,9 +780,9 @@ id expand_activities_button
 id expanded_menu
 id forever
 id gone
-id green_button
 id group_divider
 id groups
+id heart_button
 id home
 id homeAsUp
 id icon
@@ -968,6 +968,7 @@ string box_two
 string button_green
 string button_red
 string button_yellow
+string heart
 string how_to_play
 string search_menu_title
 string status_bar_notification_info_overflow
