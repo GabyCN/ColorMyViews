@@ -176,6 +176,9 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="my_green">#4CAF50</color>
+    <color name="my_red">#ED0B0B</color>
+    <color name="my_yellow">#FFC107</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
@@ -416,7 +419,7 @@
     <string name="button_green">GREEN</string>
     <string name="button_red">RED</string>
     <string name="button_yellow">YELLOW</string>
-    <string name="how_to_play">How to play</string>
+    <string name="how_to_play">How to play:</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tap_the_boxes_and_buttons">Tap the screen and buttons</string>

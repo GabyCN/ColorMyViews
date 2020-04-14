@@ -425,6 +425,9 @@ color material_grey_600
 color material_grey_800
 color material_grey_850
 color material_grey_900
+color my_green
+color my_red
+color my_yellow
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -775,6 +778,7 @@ id expand_activities_button
 id expanded_menu
 id forever
 id gone
+id green_button
 id group_divider
 id groups
 id home
@@ -811,6 +815,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id red_button
 id right
 id right_icon
 id right_side
@@ -870,6 +875,7 @@ id useLogo
 id withText
 id wrap
 id wrap_content
+id yellow_button
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer cancel_button_image_alpha
