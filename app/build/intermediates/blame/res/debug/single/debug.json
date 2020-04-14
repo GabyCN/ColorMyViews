@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",

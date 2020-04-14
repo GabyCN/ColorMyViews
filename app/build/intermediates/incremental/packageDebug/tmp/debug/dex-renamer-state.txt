@@ -1,4 +1,4 @@
-#Tue Apr 14 14:32:47 CEST 2020
+#Tue Apr 14 14:46:31 CEST 2020
 base.0=C\:\\Users\\carab\\AndroidStudioProjects\\ColorMyViews\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

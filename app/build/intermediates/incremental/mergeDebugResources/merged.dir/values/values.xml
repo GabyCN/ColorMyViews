@@ -416,8 +416,10 @@
     <string name="button_green">GREEN</string>
     <string name="button_red">RED</string>
     <string name="button_yellow">YELLOW</string>
+    <string name="how_to_play">How to play</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

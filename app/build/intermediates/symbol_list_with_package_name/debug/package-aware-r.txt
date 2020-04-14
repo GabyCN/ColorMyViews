@@ -784,8 +784,10 @@ id icon_group
 id ifRoom
 id image
 id info
+id info_text
 id invisible
 id italic
+id label_text
 id left
 id line1
 id line3
@@ -958,8 +960,10 @@ string box_two
 string button_green
 string button_red
 string button_yellow
+string how_to_play
 string search_menu_title
 string status_bar_notification_info_overflow
+string tap_the_boxes_and_buttons
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
