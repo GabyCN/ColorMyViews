@@ -27,14 +27,14 @@ class MainActivity : AppCompatActivity() {
     private fun makeColored(view: View){
         when (view.id){
             R.id.box_one_text -> view.setBackgroundColor(Color.DKGRAY)
-            R.id.box_two_text -> view.setBackgroundColor(Color.GRAY)
+            R.id.box_two_text -> view.setBackgroundResource(R.drawable.bg_shape_heart_0)
             R.id.box_three_text -> view.setBackgroundResource(android.R.color.holo_green_light)
             R.id.box_four_text -> view.setBackgroundResource(android.R.color.holo_green_dark)
             R.id.box_five_text -> view.setBackgroundResource(android.R.color.holo_blue_bright)
 
             R.id.red_button -> box_three_text.setBackgroundResource(R.color.my_red)
             R.id.yellow_button -> box_four_text.setBackgroundResource(R.color.my_yellow)
-            R.id.green_button -> box_five_text.setBackgroundResource(R.color.my_green)
+            R.id.green_button -> box_two_text.setBackgroundResource(R.drawable.corazon)
             else -> view.setBackgroundColor(Color.LTGRAY)
         }
     }
